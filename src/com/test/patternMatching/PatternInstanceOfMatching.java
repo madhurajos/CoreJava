@@ -18,16 +18,14 @@ public class PatternInstanceOfMatching {
 
 	@Override
 	public boolean equals(Object obj) {
-		/*if (this == obj)
+		if (this == obj)
 			return true;
 		if (obj == null)
 			return false;
 		if (getClass() != obj.getClass())
 			return false;
 		PatternInstanceOfMatching other = (PatternInstanceOfMatching) obj;
-		return Objects.equals(str, other.str);*/
-		
-		return obj instanceof String s && str == s.str)
+		return Objects.equals(str, other.str);
 	}
 	
 	
