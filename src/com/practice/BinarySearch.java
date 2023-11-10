@@ -41,7 +41,8 @@ public class BinarySearch {
 		}
 		
 		//This point shows that element not present
-		return -1; //added comment for git changes2
+
+		return -1;//Main branch change
 	}
 
 }
