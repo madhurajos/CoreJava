@@ -2,6 +2,7 @@ package com.practice;
 
 import java.util.Arrays;
 //Change 1
+//Change 2
 public class BinarySearch {
 
 	public static void main(String[] args) {
