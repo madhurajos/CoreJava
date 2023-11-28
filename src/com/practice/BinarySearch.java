@@ -14,7 +14,7 @@ public class BinarySearch {
 	}
 	
 	public static int binarySearch(int[] arr,int length,int x) {
-		int counter = 0;
+		int counter = 1;
 		int index = length-1;
 		
 		//1. First need to sort array
