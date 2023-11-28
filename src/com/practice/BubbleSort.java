@@ -11,7 +11,7 @@ public class BubbleSort {
 	}
 	
 	public static void bubbleSort(int[] arr) {
-		
+		//-----
 		int size = arr.length;
 		//Traverse through every element
 		for(int i = 0;i < size-1;i++) {
