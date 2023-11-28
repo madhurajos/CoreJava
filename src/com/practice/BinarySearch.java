@@ -49,5 +49,9 @@ public class BinarySearch {
 	public void testMethod() {
 		System.out.println("Inside test method");
 	}
+	
+	public void testMethod2() {
+		System.out.println("Inside test method2");
+	}
 
 }
