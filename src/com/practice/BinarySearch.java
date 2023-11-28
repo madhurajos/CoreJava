@@ -44,5 +44,9 @@ public class BinarySearch {
 		return -4; //added comment for git changes2
 		//inline commit
 	}
+	
+	public void testMethod() {
+		System.out.println("Inside test method");
+	}
 
 }
