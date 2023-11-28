@@ -41,7 +41,7 @@ public class BinarySearch {
 		}
 		
 		//This point shows that element not present
-		return -2; //added comment for git changes2
+		return -4; //added comment for git changes2
 		//inline commit
 	}
 
