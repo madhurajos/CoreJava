@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-package com.practice;
-=======
-//package com.practice;
->>>>>>> 560995c60f0617f77eff5e8e080dce5c34116f30
 
-/*import java.util.Arrays;
+package com.practice;
+
+import java.util.Arrays;
 
 public class BinarySearch {
 
