@@ -1,5 +1,5 @@
 
-package com.practice;
+/*package com.practice;
 
 import java.util.Arrays;
 
@@ -50,4 +50,4 @@ public class BinarySearch {
 		System.out.println("Inside test method");
 	}
 
-}
+}*/
